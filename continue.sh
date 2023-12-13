@@ -1,0 +1,1 @@
+python continue_DeepPM.py --data training_data/spec_core_0714.data --train_cfg config/continue_train.json --model saved/experiment1/predictor.dump --model-data saved/experiment1/1014/checkpoints/1.mdl --experiment-name experiment1 --experiment-time 1014_1
